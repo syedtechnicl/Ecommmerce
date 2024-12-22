@@ -14,7 +14,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                Aleeza Saleem
+                Aleeza Saleem's
               </a>
             </p>
             <a
