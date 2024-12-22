@@ -14,7 +14,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                Aleeza Saleem's
+                <span style={{ color: "red" }}> Aleeza Saleem</span>
               </a>
             </p>
             <a
